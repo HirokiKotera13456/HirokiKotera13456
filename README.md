@@ -9,7 +9,7 @@
 | 2021年 |7月| Rubyの学習 |
 | 2021年 |8月| DMMWEBCAMP入学  |
 | 2021年 |8月|  学校：Ruby on Railsを用いたWebアプリ開発の学習、独学：Reactを用いたSPA開発の学習 |
-| 2021年|9月| 学校：Ruby on Railsでチーム開発 |
+| 2021年|9月| 学校：Ruby on Railsでチーム開発　（ECサイト「長野ケーキ」の作成）|
 | 2021年|10月| 学校：Ruby on RailsでWebアプリ「DogPair」開発、AWS EC2の学習、独学：React&Docker&TypeScriptの学習 |
 
 <p align="left"> 
