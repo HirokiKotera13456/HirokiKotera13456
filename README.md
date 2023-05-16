@@ -7,7 +7,7 @@
 | 2021年 |3月～5月| Java学習、基本情報技術者試験過去問で情報の基礎の学習 |
 | 2021年|6月| HTML&CSS&JavaScriptの学習 |
 | 2021年 |8月~12月|DMMWEBCAMP 受講：Ruby on Railsを用いたWebアプリ開発の学習、独学：Reactを用いたSPA開発の学習 |
-| 2021年|1月| 勤務開始 |
+| 2021年|1月～現在| ITF合同会社 勤務開始 開発環境：Java(Spring) JavaScript(React) Docker AWS |
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijimajohn&layout=compact&show_icons=true&theme=cobalt" />
