@@ -7,7 +7,7 @@
 | 2021 |3月～5月| Java学習、基本情報技術者試験過去問で情報の基礎の学習 |
 | 2021|6月| HTML&CSS&JavaScriptの学習 |
 | 2021 |8月~12月|DMMWEBCAMP 受講：Ruby on Railsを用いたWebアプリ開発の学習、独学：Reactを用いたSPA開発の学習 |
-| 2022|1月~2023現在| ITF合同会社 勤務開始 開発環境：Java(Spring) JavaScript(React) Docker |
+| 2022|2022/1~2023/7| ITF合同会社 勤務 開発環境：Java(Spring) JavaScript(React) Docker |
 
 
 <p align="left"> 
