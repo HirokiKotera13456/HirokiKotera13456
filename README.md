@@ -1,14 +1,5 @@
 # プロフィール
 
-| 年|  月|プログラミング経歴 | 
-| :--- | :---: | :---: | 
-| 2020 |4|  同志社大学ヒューマンコンピュータインタラクション研究室所属 |
-| 2021|1 | 卒業研究の一環でキーボードの開発中にプログラミングを利用 |
-| 2021 |3～5| Java学習、基本情報技術者試験過去問で情報の基礎の学習 |
-| 2021|6| HTML&CSS&JavaScriptの学習 |
-| 2021 |8~12|DMMWEBCAMP 受講：Ruby on Railsを用いたWebアプリ開発の学習、独学：Reactを用いたSPA開発の学習 |
-| 2022|2022/1~2023/7| ITF合同会社 勤務 開発環境：Java(Spring) JavaScript(React) Docker |
-
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijimajohn&layout=compact&show_icons=true&theme=cobalt" />
